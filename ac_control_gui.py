@@ -595,7 +595,7 @@ if __name__ == "__main__":
     
 
     window = tk.Tk()
-    window.title("Flex KP 7F GPO automatic AC scheduling system")
+    window.title("automatic AC scheduling system")
     window.geometry("1920x1080")
     
     frame2 = Frame2(window, relayBoard1)
