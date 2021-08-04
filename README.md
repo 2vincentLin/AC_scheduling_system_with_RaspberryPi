@@ -12,3 +12,6 @@ there're two file you need,
 There're two tk frames in ac_control_gui.py, Frame1 is to display the layout and button, Frame2 is to display the setting/status of each relay. put Background.JPG under at_static folder, and adjust the buttons position manually.
 
 change relayList and pinList (GPIO) respectively to suit your need, for me, I need 25 GPIOs because I need 25 relays.
+
+
+![final product](Final_product.jpg)
