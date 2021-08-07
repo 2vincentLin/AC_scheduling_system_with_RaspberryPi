@@ -18,4 +18,4 @@ change relayList and pinList (GPIO) respectively to suit your need, for me, I ne
 
 ## how to connect raspberry pi to relay
 
-I use two 16 channel low trigger 5V relay board, in each board there're 16 unique pin numbered from 1 to 16, each matches a relay, connect your raspberry pi GPIO to pins you chosen. Then connect 5V and GND from raspberry pi to relay board. you don't need to connect 12V on the relay board, the 12V power is used when you don't havee 5V to power the relay board. (if you power the board by 12V power supply, don't connect 5V from raspberry pi to relay board)
+I use two 16 channel low trigger 5V relay board, in each board there're 16 unique pin numbered from 1 to 16, each matches a relay, connect your raspberry pi GPIO to pins you chosen. Then connect 5V and GND from raspberry pi to relay board. you don't need to connect 12V on the relay board, the 12V power is used when you don't have 5V to power the relay board. (if you power the board by 12V power supply, don't connect 5V from raspberry pi to relay board)
